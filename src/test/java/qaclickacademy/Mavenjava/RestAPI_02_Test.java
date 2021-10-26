@@ -18,6 +18,9 @@ public class RestAPI_02_Test {
 	public void PostJira() {
 		
 		System.out.println("PostJira");	
+		System.out.println("PostJira2");	
+		System.out.println("PostJira3");	
+		System.out.println("PostJira4");	
 	}
 	
 	@Test
