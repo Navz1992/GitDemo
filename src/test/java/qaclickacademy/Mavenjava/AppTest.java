@@ -17,4 +17,14 @@ public class AppTest {
   public void shouldAnswerWithTrue() {
     
   }
+  
+  @Test
+  public void shouldAnswerWithTrue02() {
+    
+  }
+  
+  @Test
+  public void shouldAnswerWithTrue03() {
+    
+  }
 }
