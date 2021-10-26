@@ -21,6 +21,9 @@ public class Apium_03_Test {
 	public void iOSApp() {
 		
 	 System.out.println("iOSApp");	
+	 System.out.println("iOSApp");	
+	 System.out.println("iOSApp");	
+	 System.out.println("iOSApp");	
 	}
 
 }

@@ -27,6 +27,10 @@ public class RestAPI_02_Test {
 	public void DeleteTwitter() {
 		
 		System.out.println("DeleteTwitter");
+		System.out.println("DeleteTwitter");
+		System.out.println("DeleteTwitter");
+		System.out.println("DeleteTwitter");
+		System.out.println("DeleteTwitter");
 		
 	}
 
